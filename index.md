@@ -9,5 +9,5 @@ Had some issue with editing during the merge request so doing it here.
 
 
 ``` python
-hello_string = "Hello, world!";
+hello_string = "Hello, world!"
 ```
