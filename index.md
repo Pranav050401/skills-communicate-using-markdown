@@ -11,3 +11,8 @@ Had some issue with editing during the merge request so doing it here.
 ``` python
 hello_string = "Hello, world!"
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Complete github assignments 
